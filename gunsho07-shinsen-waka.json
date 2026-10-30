@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shinsen-waka",
  "yomi": "しんせんわか",
  "category": "私撰集",
- "description": null,
+ "description": {
+  "kind": "私撰集",
+  "era": "延長8年〜承平4年（930〜934）頃",
+  "author": "撰者 紀貫之",
+  "desc": "醍醐天皇の命で、紀貫之が古今集の歌などから秀歌を選び直したもの。土佐守として赴任中に撰び終えたと序にある。春と秋、夏と冬のように歌を番えて並べる。"
+ },
  "editions": [
   {
    "pid": "1879496",
@@ -4011,6 +4016,6 @@
   "poems": 357,
   "editions": 1,
   "updated": "2026-10-29",
-  "updated_at": "2026-10-29T23:37:59+09:00"
+  "updated_at": "2026-10-29T23:55:04+09:00"
  }
 }
